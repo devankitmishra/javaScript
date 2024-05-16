@@ -1,0 +1,16 @@
+
+/* .box{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    background: aquamarine;
+} */
+
+.dark{
+    background: black;
+    color: white;
+}
+.light{
+    background: white;
+    color: black;
+}

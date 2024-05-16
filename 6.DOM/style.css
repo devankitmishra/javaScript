@@ -1,0 +1,38 @@
+/* body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0% 25%;
+}
+h2{
+    color: darkolivegreen;
+}
+p{
+    color: burlywood;
+    text-align: center;
+    
+}
+button{
+    color: crimson;
+    font-size: 24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+} */
+
+/* .box{
+    height: 200px;
+    width: 100px;
+    border: 1px solid #000;
+    margin: 5px;
+    background-color: aquamarine;
+    text-align: center;
+} */
+
+.content {
+    color: red;
+}
+
+.newClass{
+    background-color: greenyellow;
+}
